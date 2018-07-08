@@ -1,0 +1,29 @@
+{
+  "name": "javascript_lab",
+  "version": "1.0.0",
+  "description": "Javascript Study Lab",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "eslint": "^5.0.1",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-eslint": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/color0e/Javascript_Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/color0e/Javascript_Lab/issues"
+  },
+  "homepage": "https://github.com/color0e/Javascript_Lab#readme"
+}
